@@ -1,6 +1,6 @@
-# 🧠 AI Interview Mocker – Practice Like a Pro!
+# 🧠 NovaPrep AI – Practice Like a Pro!
 
-Welcome to **AI Interview Mocker**, your personal AI-powered mock interview platform designed to simulate real-world interview scenarios with ease and accuracy. Whether you're a fresher or a professional, our tool helps you **build confidence, improve communication**, and get job-ready!
+Welcome to **NovaPrep AI**, your personal AI-powered mock interview platform designed to simulate real-world interview scenarios with ease and accuracy. Whether you're a fresher or a professional, our tool helps you **build confidence, improve communication**, and get job-ready!
 
 > ⚡ Built with **Gemini API** for smart, contextual, and customized interview experiences.
 
@@ -21,16 +21,16 @@ Welcome to **AI Interview Mocker**, your personal AI-powered mock interview plat
 
 | Metric | Achievement |
 |--------|-------------|
-| 🚀 Total Users | 200+ Professionals |
+| 🚀 Total Users | 50+ Professionals |
 | ⏱️ Onboarding Time Reduction | 60% Faster |
 | 🎙️ Speech-to-Text Accuracy | 90%+ |
 | 🤖 AI-Generated Interviews | 1000+ Sessions |
 
 ## 🖼️ Screenshots
 
-| Landing Page | Dashboard | Interview Setup | Feedback |
+| Landing Page | Sing-in | Dashboard | Interview Setup |
 |--------------|-----------|------------------|-----------|
-| ![](https://github.com/user-attachments/assets/34d207b8-26a6-4956-ac74-c0108dacee92) | ![](https://github.com/user-attachments/assets/a1cc7993-c9e8-461f-9b36-a527143331fd) | ![](https://github.com/user-attachments/assets/d8df9845-b5b0-4446-a5fd-4bb267a2b3b2) | ![](https://github.com/user-attachments/assets/1bbb12a4-861b-46f1-bcba-b1ac3cdce4ef) |
+| ![](https://github.com/pranavjoshi075/NovaPrepAI/blob/623664e1b24ee03bedfcc5e7ce011794010ca824/public/one.JPG) | ![](https://github.com/pranavjoshi075/NovaPrepAI/blob/623664e1b24ee03bedfcc5e7ce011794010ca824/public/two.JPG) | ![](https://github.com/pranavjoshi075/NovaPrepAI/blob/623664e1b24ee03bedfcc5e7ce011794010ca824/public/three.JPG) | ![](https://github.com/pranavjoshi075/NovaPrepAI/blob/623664e1b24ee03bedfcc5e7ce011794010ca824/public/four.JPG) |
 
 ---
 
@@ -47,9 +47,8 @@ Welcome to **AI Interview Mocker**, your personal AI-powered mock interview plat
 
 ```bash
 # Clone the repo
-git clone https://github.com/SHARUN266/AI-mock-interview
-cd AI-mock-interview
-
+git clone https://github.com/pranavjoshi075/NovaPrepAI.git
+cd NovaPrpeAI
 # Install dependencies
 npm install 
 
@@ -62,6 +61,9 @@ npm run dev
 
 # Open in browser
 http://localhost:3000  # or http://127.0.0.1:5000
+
+# Demo Vercel Link
+https://nova-prep-2fqanmjx3-pranavs-projects-3c13b0e8.vercel.app/
 ```
 
 ---
@@ -87,8 +89,8 @@ Please follow the coding and PR guidelines listed in [`CONTRIBUTING.md`](CONTRIB
 
 ## 🔗 Connect With Us
 
-- 🌐 Website: [your-website-link]
-- 📬 Email: [your-email@example.com]
-- 🧠 Built with ❤️ using LangChain + Google Gemini APIs
+- 🌐 Website: []
+- 📬 Email: []
+- 🧠 Built with ❤️
 
 ---
